@@ -1,8 +1,5 @@
-# CFCRS
-
-This is the official PyTorch implementation for the paper:
-
-> Xiaolei Wang, Kun Zhou, Xinyu Tang, Wayne Xin Zhao, Fan Pan, Zhao Cao, Ji-Rong Wen. Improving Conversational Recommendation Systems via Counterfactual Data Simulation. KDD 2023.
+# Improving-Conversational-Recommendation-Systems
+Course Project for DA-626: Improving-Conversational-Recommendation-Systems-via-Counterfactual-Data-Simulation
 
 ## Overview
 
@@ -54,10 +51,6 @@ bash script/{model}/{dataset}/train_rec.sh 0
 bash script/{model}/{dataset}/train_cf.sh 0
 bash script/{model}/{dataset}/train_conv.sh 0
 ```
-
-## Contact
-
-If you have any questions for our paper or codes, please send an email to wxl1999@foxmail.com.
 
 [//]: # (## Acknowledgement)
 
